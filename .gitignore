@@ -1,22 +1,32 @@
 ### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
+# Template for AL projects for Dynamics 365 Business Central
+
+# Ignore Visual Studio Code configuration settings
 .vscode/
-#Cache folder
+
+# Ignore the AL language service cache for Business Central
 .alcache/
-#Symbols folder
+
+# Ignore application symbols for Business Central extension development
 .alpackages/
-#Snapshots folder
+
+# Ignore snapshot files (usually backup or temporary files)
 .snapshots/
-#Testing Output folder
+
+# Ignore testing output directory (contains test logs and temporary files)
 .output/
-#Extension App-file
+
+# Ignore application files for Business Central extension
 *.app
-#Rapid Application Development File
+
+# Ignore Rapid Application Development configuration file
 rad.json
-#Translation Base-file
+
+# Ignore machine-generated translation files
 *.g.xlf
-#License-file
+
+# Ignore license files. These should not be stored in VCS for security reasons.
 *.flf
-#Test results file
+
+# Ignore test results file
 TestResults.xml
