@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware/Momentum-Apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware/Momentum-Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware/flipper-update-indexer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware/flipperzero-protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Momentum-Firmware/video-game-module" vcs="Git" />
   </component>
 </project>
